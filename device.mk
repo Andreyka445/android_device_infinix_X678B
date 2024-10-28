@@ -367,6 +367,11 @@ PRODUCT_PACKAGES += \
     libstagefright_foundation-v32 \
     libutils-v32
 
+# USB
+PRODUCT_PACKAGES += \
+    android.hardware.usb-service.mediatek \
+    android.hardware.usb.gadget-service.mediatek
+
 # Wi-Fi
 PRODUCT_PACKAGES += \
     wpa_supplicant \
