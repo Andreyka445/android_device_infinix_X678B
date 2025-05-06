@@ -224,6 +224,7 @@ PRODUCT_ENFORCE_RRO_TARGETS := *
 PRODUCT_PACKAGES += \
     FrameworkResOverlayVeritas \
     SystemUIResOverlayVeritas \
+    TetheringResOverlayVeritas \
     WifiResOverlayVeritas
 
 # Lights
