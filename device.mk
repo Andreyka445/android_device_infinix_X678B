@@ -223,7 +223,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_ENFORCE_RRO_TARGETS := *
 PRODUCT_PACKAGES += \
     FrameworkResOverlayVeritas \
-    SystemUIResOverlayVeritas
+    SystemUIResOverlayVeritas \
+    WifiResOverlayVeritas
 
 # Lights
 PRODUCT_PACKAGES += \
