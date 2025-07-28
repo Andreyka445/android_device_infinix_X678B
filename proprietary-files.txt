@@ -733,9 +733,6 @@ vendor/lib64/libanc_hdr_adapter_s5khm6sx_17201842_back_g97_fast.so
 vendor/lib64/libanc_hdr.so
 vendor/lib64/libancbase.so
 vendor/lib64/libancbase_848.so
-vendor/lib64/libasn1c_core.so
-vendor/lib64/libasn1c_mapi.so
-vendor/lib64/libasn1c_mdmi.so
 vendor/lib64/libc++_shared.so
 vendor/lib64/libcam.seninfn3d.so
 vendor/lib64/libcam3_tranelapsedtime.so
@@ -787,9 +784,6 @@ vendor/lib64/vendor.mediatek.hardware.camera.lomoeffect@1.0.so
 vendor/lib64/vendor.mediatek.hardware.camera.postproc@1.0.so
 vendor/lib64/vendor.mediatek.hardware.camera.security@1.0.so
 vendor/lib64/vendor.transsion.hardware.trancam.trancamserver@1.0.so
-vendor/lib64/mtkcam/mt6789/libmtkcam_streaminfo_plugin-p1stt.so
-vendor/lib64/libmtkhardware_legacy.so
-vendor/lib64/libmtklimiter_vendor.so
 
 # Cameradata
 vendor/data/camera/morpho/morpho_calibration_video.bin
