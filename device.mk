@@ -319,6 +319,7 @@ PRODUCT_PACKAGES += \
     SettingsProviderOverlayVeritas \
     SystemUIResOverlayVeritas \
     TetheringResOverlayVeritas \
+    UpdaterOverlayVeritas \
     WifiResOverlayVeritas
 
 # Lineage-Specific Overlays
