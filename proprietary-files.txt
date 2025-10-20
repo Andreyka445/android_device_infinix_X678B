@@ -1,9 +1,5 @@
 # Unpinned blobs from X678B-H894OPQ-U-OP-250217V838
 
-# AEE
-vendor/lib/libaedv.so
-vendor/lib64/libaedv.so
-
 # APU
 -vendor/etc/vintf/manifest/manifest_apuware_apusys.xml
 -vendor/etc/vintf/manifest/manifest_apuware_hmp.xml
