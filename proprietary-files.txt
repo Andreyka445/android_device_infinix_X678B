@@ -718,7 +718,6 @@ vendor/lib64/libBasicModule.so
 vendor/lib64/libFy-3A-Core.so
 vendor/lib64/libFy-3A-Param.so
 vendor/lib64/libSQLiteModule_VER_ALL.so
-vendor/lib64/libTranExtImgThread.so
 vendor/lib64/libaibld.so
 vendor/lib64/libanc_hdr_adapter_s5kgd2sp_17201766_front_g97.so
 vendor/lib64/libanc_hdr_adapter_s5khm6sx_17201842_back_g97.so
