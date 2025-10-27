@@ -5,5 +5,5 @@
 
 runtime_resource_overlay {
     name: "SettingsProviderOverlayVeritas",
-    vendor: true
+    vendor: true,
 }
