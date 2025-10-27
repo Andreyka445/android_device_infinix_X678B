@@ -1,4 +1,4 @@
 runtime_resource_overlay {
     name: "FrameworkResOverlayVeritas",
-    vendor: true
+    vendor: true,
 }
