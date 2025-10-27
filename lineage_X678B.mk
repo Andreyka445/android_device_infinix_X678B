@@ -24,7 +24,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-transsion
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceName=X678B \
-    BuildFingerprint=Infinix/X678B-OP/Infinix-X678B:14/UP1A.231005.007/251217V838:user/release-keys
+    BuildFingerprint=Infinix/X678B-OP/Infinix-X678B:14/UP1A.231005.007/250217V838:user/release-keys
 
 # Time
 LINEAGE_VERSION_APPEND_TIME_OF_DAY := true
