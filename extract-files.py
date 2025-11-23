@@ -18,6 +18,7 @@ namespace_imports = [
     'device/infinix/X678B',
     'hardware/mediatek',
     'hardware/mediatek/libmtkperf_client',
+    'hardware/mediatek/libaedv',
     'hardware/millennium',
 ]
 
