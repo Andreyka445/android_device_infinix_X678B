@@ -15,7 +15,7 @@ from extract_utils.main import (
 )
 
 namespace_imports = [
-    'device/tecno/LH7n',
+    'device/infinix/X678B',
     'hardware/mediatek',
     'hardware/mediatek/libmtkperf_client',
     'hardware/millennium',
