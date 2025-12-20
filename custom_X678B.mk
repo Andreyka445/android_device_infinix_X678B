@@ -10,11 +10,11 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from device makefile.
 $(call inherit-product, device/infinix/X678B/device.mk)
 
-# Inherit some common LineageOS stuff.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+# Inherit some common PixelOS stuff.
+$(call inherit-product, vendor/custom/config/common_full_phone.mk)
 
 BOARD_VENDOR := Infinix
-PRODUCT_NAME := lineage_X678B
+PRODUCT_NAME := custom_X678B
 PRODUCT_DEVICE := X678B
 PRODUCT_MANUFACTURER := Infinix
 PRODUCT_BRAND := Infinix
@@ -26,5 +26,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceName=X678B \
     BuildFingerprint=Infinix/X678B-OP/Infinix-X678B:14/UP1A.231005.007/250217V838:user/release-keys
 
-# Time
-LINEAGE_VERSION_APPEND_TIME_OF_DAY := true
+PERF_ANIM_OVERRIDE := true
