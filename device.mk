@@ -90,6 +90,9 @@ PRODUCT_PACKAGES += \
     DSPVolumeSynchronizer \
     MtkInCallService
 
+PRODUCT_PACKAGES += \
+    RemovePkgs
+
 PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,$(LOCAL_PATH)/configs/audio/,$(TARGET_COPY_OUT_VENDOR)/etc)
 
@@ -532,3 +535,6 @@ PRODUCT_COPY_FILES += \
 
 # Inherit the proprietary files
 $(call inherit-product, vendor/infinix/X678B/X678B-vendor.mk)
+
+#Signing
+include vendor/evolution-priv/keys/keys.mk
